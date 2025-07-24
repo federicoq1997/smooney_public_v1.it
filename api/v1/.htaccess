@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  Options -Indexes
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+
+  RewriteRule auth/(.*)$ auth/index.php [L]
+  RewriteRule cron/(.*)$ cron/index.php [L]
+  RewriteRule info/(.*)$ info/index.php [L]
+  RewriteRule financial/(.*)$ financial/index.php [L]
+  RewriteRule config/(.*)$ config/index.php [L]
+
+</IfModule>

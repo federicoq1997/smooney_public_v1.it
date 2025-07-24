@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/sftp.json
+api/classes/EncryptionManager/assets/config.php
+pages/love/
+environment/config.php
+api/classes/Auth_service/assets/openssl_public_key.key
+api/classes/Auth_service/assets/openssl_private_key.key
+api/classes/Auth_service/assets/secretKey.php
+api/classes/Default_service/assets/secretKey.php
+api/classes/ioConnection.Class.php
+api/classes/io.Class.php
+api/classes/ioException.Class.php
+api/classes/ioQuery.Class.php

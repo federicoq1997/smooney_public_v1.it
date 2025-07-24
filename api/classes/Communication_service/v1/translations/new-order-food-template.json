@@ -1,0 +1,50 @@
+{
+	"Sauccessful payment!":{
+		"it":"Pagamento riuscito!",
+		"en":null
+	},
+	"Order in progress":{
+		"it":"L'ordine è stato preso in carico",
+		"en":null
+	},
+	"View order status":{
+		"it":"Visualizza lo stato dell'ordine",
+		"en":null
+	},
+	"Thanks for your order. It is already being prepared for shipment and will be delivered very soon.":{
+		"it":"Grazie per il vostro ordine. È già in fase di preparazione per la spedizione e sarà consegnato molto presto.",
+		"en":null
+	},
+	"Subtotal ({_count_items_} items)":{
+		"it":"Subtotale ({_count_items_} articoli)",
+		"en":null
+	},
+	"Subtotal":{
+		"it":"Subtotale",
+		"en":null
+	},
+	"Shipping":{
+		"it":"Spedizione",
+		"en":null
+	},
+	"Discount":{
+		"it":"Sconto",
+		"en":null
+	},
+	"Total":{
+		"it":"Totale",
+		"en":null
+	},
+	"Your order will arrive by":{
+		"it":"Il tuo ordine arriverà per le",
+		"en":null
+	},
+	"Great news!!! {_org_name_} has confirmed your order.<br><br><strong>Your order number is:":{
+		"it":"Ottime notizie! {_org_name_} ha confermato il tuo ordine.<br><br><strong>Il numero del tuo ordine è:",
+		"en":null
+	},
+	"Order Summary":{
+		"it":"Riepilogo ordine",
+		"en":null
+	}
+}

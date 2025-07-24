@@ -1,0 +1,10 @@
+{
+	"To log in, copy and paste the confirmation code on the login page.<br> The code is only valid for 10 minutes, so please use it now.":{
+		"it":"Per accedere, copiare e incollare il codice di conferma sulla pagina di accesso.<br> Il codice è valido solo per 10 minuti, quindi si prega di utilizzarlo subito.",
+		"en":null
+	},
+	"Do not share this OTP with anyone. We take the security of your account very seriously. Our customer service will never ask you to disclose or verify your password, OTP, credit card, or bank account number. If you receive a suspicious e-mail with a link to update your account information, do not click the link, but report the e-mail to {_email_}.":{
+		"it":"Non condividete questo OTP con nessuno. Prendiamo molto sul serio la sicurezza del vostro conto. Il nostro servizio clienti non vi chiederà mai di rivelare o verificare la vostra password, OTP, carta di credito o numero di conto corrente. Se ricevete un'e-mail sospetta con un link per aggiornare le informazioni del vostro conto, non cliccate sul link, ma segnalate l'e-mail a {_email_}.",
+		"en":null
+	}
+}

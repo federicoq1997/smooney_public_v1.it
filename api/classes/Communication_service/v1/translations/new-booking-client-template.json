@@ -1,0 +1,38 @@
+{
+	"<strong>Congratulations</strong>":{
+		"it":"<strong>Congratulazioni</strong>",
+		"en":null
+	},
+	"Your booking ":{
+		"it":"La tua prenotazione ",
+		"en":null
+	},
+	"for <b>{_pax_} people</b>":{
+		"it":"per <b>{_pax_} persone</b>",
+		"en":null
+	},
+	"at <b>{_booking_time_from_}</b>":{
+		"it":"alle <b>{_booking_time_from_}</b>",
+		"en":null
+	},
+	"Booking code: ":{
+		"it":"Codice di prenotazione: ",
+		"en":null
+	},
+	"Arrival day: ":{
+		"it":"Giorno d'arrivo: ",
+		"en":null
+	},
+	"The place of accommodation is located at {_location_address_}. Please arrive at the scheduled time to avoid any delays or inconveniences.":{
+		"it":"Il luogo di alloggio si trova all'indirizzo {_location_address_}. Si prega di arrivare all'orario previsto per evitare ritardi o inconvenienti.",
+		"en":null
+	},
+	"For further information on bookings":{
+		"it":"Per ulteriori informazioni sulle prenotazioni",
+		"en":null
+	},
+	"More&nbsp;details":{
+		"it":"Maggiori&nbsp;dettagli",
+		"en":null
+	}
+}

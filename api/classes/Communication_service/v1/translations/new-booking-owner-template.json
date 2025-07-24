@@ -1,0 +1,18 @@
+{
+	"You have received a new reservation":{
+		"it":"Hai ricevuto una nuova prenotazione",
+		"en":null
+	},
+	"Dear owner,":{
+		"it":"Gentile proprietario,",
+		"en":null
+	},
+	"We would like to inform you that you have received a new reservation in the name of {_booking_name_}. The expected arrival date is {_booking_from_} at {_booking_time_from_}, for {_pax_} people. The booking code is {_short_code_}.<br><br>Please check the booking details and confirm that everything is in order. In case of need, please do not hesitate to contact us.":{
+		"it":"La informiamo che ha ricevuto una nuova prenotazione a nome di {_booking_name_}. La data di arrivo prevista è {_booking_from_} alle {_booking_time_from_}, per {_pax_} persone. Il codice di prenotazione è {_short_code_}.<br><br>Controlla i dettagli della prenotazione e conferma che tutto è in ordine. In caso di necessità, non esitate a contattarci.",
+		"en":null
+	},
+	"Kind regards,<br><br>The booking team":{
+		"it":"Cordiali saluti,<br><br>Il team di prenotazione",
+		"en":null
+	}
+}

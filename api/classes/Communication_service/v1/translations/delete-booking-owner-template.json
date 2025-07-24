@@ -1,0 +1,18 @@
+{
+	"A reservation has been cancelled":{
+		"it":"Una prenotazione è stata cancellata",
+		"en":null
+	},
+	"Dear owner,":{
+		"it":"Gentile proprietario,",
+		"en":null
+	},
+	"We inform you that the reservation in the name of {_booking_name_} has been cancelled. La data di arrivo prevista era {_booking_from_} alle {_booking_time_from_}, per {_pax_} persone. The booking code is {_short_code_}.":{
+		"it":"La informiamo che la prenotazione a nome di {_booking_name_} è stata cancellata. La data di arrivo prevista era {_booking_from_} alle {_booking_time_from_}, per {_pax_} persone. Il codice di prenotazione è {_short_code_}.",
+		"en":null
+	},
+	"Kind regards,<br><br>The booking team":{
+		"it":"Cordiali saluti,<br><br>Il team di prenotazione",
+		"en":null
+	}
+}
